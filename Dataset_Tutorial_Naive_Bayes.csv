@@ -1,0 +1,15 @@
+x1_cuaca,x2_suhu,x3_kelembaban,x4_berangin,y_status
+cerah,panas,tinggi,tidak,tidur
+cerah,panas,tinggi,ya,tidur
+mendung,panas,tinggi,tidak,main
+hujan,sedang,tinggi,tidak,main
+hujan,dingin,normal,tidak,main
+hujan,dingin,normal,ya,tidur
+mendung,dingin,normal,ya,main
+cerah,sedang,tinggi,tidak,tidur
+cerah,dingin,normal,tidak,main
+hujan,sedang,normal,tidak,main
+cerah,sedang,normal,ya,main
+mendung,sedang,tinggi,ya,main
+mendung,panas,normal,tidak,main
+hujan,sedang,tinggi,ya,tidur
